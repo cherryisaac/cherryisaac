@@ -9,10 +9,10 @@
 <h3 align="center">A passionate full stack developer</h3>
 
 <p align="center">
-  - 🔭 I’m currently working on: Snake Game, Python Scripts, Improving my current languages/tools
+  - 🌱 I’m interested in learning: Solidity, Web3, Next.js, Crypto & NFTs
 </p>
 <p align="center">
-  - 🌱 I’m interested in learning: Solidity, Web3, Next.js, Crypto/NFTs
+  - 🔭 I’m currently working on: Snake Game, Python Scripts, Improving my current languages/tools
 </p>
 
 <h3 align="center">Languages and Tools</h3>
