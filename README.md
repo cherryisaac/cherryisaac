@@ -10,6 +10,8 @@
 
 <p align="center">
   - 🔭 I’m currently working on: Snake Game, Python Scripts, Improving my current languages/tools
+</p>
+<p align="center">
   - 🌱 I’m interested in learning: Solidity, Web3, Next.js, Crypto/NFTs
 </p>
 
