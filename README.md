@@ -10,10 +10,10 @@
 
 
 <p align="center">
-  - 🔭 I’m currently working on: Snake Game, Python Scripts, Improving my current languages/tools
+  - 🔭 I’m currently working on: JavaScript Inspect themes, TBD...
 </p>
 <p align="center">
-  - 🌱 I’m interested in learning: Deploying an application on a cloud server (AWS, Google Cloud, etc.), Next.js, Solidity, Blockchain, Web3, Crypto & NFTs
+  - 🌱 I’m interested in learning: Next.js, Solidity, Blockchain, Web3, Crypto & NFTs
 </p>
 
 <h3 align="center">Languages and Tools</h3>
